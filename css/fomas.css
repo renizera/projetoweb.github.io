@@ -1,16 +1,43 @@
-body {
+.body {
   margin: 0px 0px 0px 0px;
 }
 
 .formaVerde {
-height: 14%;
-width: 100%;
-border: 0px margin: 0px 0px 0px 0px;
+height: 7%;
+width: 40%;
+border: 0px;
+margin: 0px 0px 0px 0px;
 background-color: #44A555;
 margin: auto;
 }
 
-img{
+.img{
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
+}
+
+.formaVerde {
+  height: 7%;
+  width: 20%;
+  border: 0px;
+  margin: 0px 0px 0px 0px;
+  background-color: #44A555;
+  margin: left;
+  opacity: 5;
+}
+
+.imgNature {
+  height: 30%;
+  width: 70%;
+  position: center;
+}
+
+.beverages {
+  height: 80%;
+  width: 20%;
+  border: 0px;
+  margin: 0px 0px 0px 0px;
+  background-color: #ed18f5;
+  margin-left: 250%;
+  opacity: 5;
 }
